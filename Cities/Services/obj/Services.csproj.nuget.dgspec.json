@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Services/Services.csproj": {}
+  },
+  "projects": {
+    "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/Configuration.csproj",
+        "projectName": "Configuration",
+        "projectPath": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/Configuration.csproj",
+        "packagesPath": "/Users/aramaisyeghoyan/.nuget/packages/",
+        "outputPath": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aramaisyeghoyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Models/Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Models/Models.csproj",
+        "projectName": "Models",
+        "projectPath": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Models/Models.csproj",
+        "packagesPath": "/Users/aramaisyeghoyan/.nuget/packages/",
+        "outputPath": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aramaisyeghoyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/Configuration.csproj": {
+                "projectPath": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/Configuration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Services/Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Services/Services.csproj",
+        "projectName": "Services",
+        "projectPath": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Services/Services.csproj",
+        "packagesPath": "/Users/aramaisyeghoyan/.nuget/packages/",
+        "outputPath": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aramaisyeghoyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/Configuration.csproj": {
+                "projectPath": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/Configuration.csproj"
+              },
+              "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Models/Models.csproj": {
+                "projectPath": "/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

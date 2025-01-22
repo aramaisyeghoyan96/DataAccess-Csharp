@@ -1,0 +1,5 @@
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/DbRepos/obj/Debug/net8.0/DbRepos.csproj.AssemblyReference.cache
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/DbRepos/obj/Debug/net8.0/DbRepos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/DbRepos/obj/Debug/net8.0/DbRepos.AssemblyInfoInputs.cache
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/DbRepos/obj/Debug/net8.0/DbRepos.AssemblyInfo.cs
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/DbRepos/obj/Debug/net8.0/DbRepos.csproj.CoreCompileInputs.cache

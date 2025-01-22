@@ -1,0 +1,375 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbRepos/DbRepos.csproj": {}
+  },
+  "projects": {
+    "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj",
+        "projectName": "Configuration",
+        "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj",
+        "packagesPath": "/Users/aramaisyeghoyan/.nuget/packages/",
+        "outputPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aramaisyeghoyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/DbContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/DbContext.csproj",
+        "projectName": "DbContext",
+        "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/DbContext.csproj",
+        "packagesPath": "/Users/aramaisyeghoyan/.nuget/packages/",
+        "outputPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aramaisyeghoyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj": {
+                "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj"
+              },
+              "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbModels/DbModels.csproj": {
+                "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbModels/DbModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbModels/DbModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbModels/DbModels.csproj",
+        "projectName": "DbModels",
+        "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbModels/DbModels.csproj",
+        "packagesPath": "/Users/aramaisyeghoyan/.nuget/packages/",
+        "outputPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbModels/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aramaisyeghoyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj": {
+                "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj"
+              },
+              "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Models/Models.csproj": {
+                "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EFCore.CheckConstraints": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbRepos/DbRepos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbRepos/DbRepos.csproj",
+        "projectName": "DbRepos",
+        "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbRepos/DbRepos.csproj",
+        "packagesPath": "/Users/aramaisyeghoyan/.nuget/packages/",
+        "outputPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbRepos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aramaisyeghoyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj": {
+                "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj"
+              },
+              "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/DbContext.csproj": {
+                "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/DbContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Models/Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Models/Models.csproj",
+        "projectName": "Models",
+        "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Models/Models.csproj",
+        "packagesPath": "/Users/aramaisyeghoyan/.nuget/packages/",
+        "outputPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aramaisyeghoyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj": {
+                "projectPath": "/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/Configuration/Configuration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

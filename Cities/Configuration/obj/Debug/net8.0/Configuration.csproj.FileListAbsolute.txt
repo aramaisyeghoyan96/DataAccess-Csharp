@@ -1,0 +1,9 @@
+/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/bin/Debug/net8.0/Configuration.dll
+/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/bin/Debug/net8.0/Configuration.pdb
+/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/obj/Debug/net8.0/Configuration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/obj/Debug/net8.0/Configuration.AssemblyInfoInputs.cache
+/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/obj/Debug/net8.0/Configuration.AssemblyInfo.cs
+/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/obj/Debug/net8.0/Configuration.csproj.CoreCompileInputs.cache
+/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/obj/Debug/net8.0/Configuration.dll
+/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/obj/Debug/net8.0/refint/Configuration.dll
+/Users/aramaisyeghoyan/Developments/Dataåtkomster.NEt/Cities/Configuration/obj/Debug/net8.0/Configuration.pdb

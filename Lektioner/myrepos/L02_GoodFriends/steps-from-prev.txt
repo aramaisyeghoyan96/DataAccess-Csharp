@@ -1,0 +1,15 @@
+Steps from previous lesson
+
+1. Implementing User Secrets
+2. In Health Controller create action AppTest using csSeedGenerator in same way as prev console app
+3. Implementing csFriendsServiceOther1 and csFriendsServiceOther2
+4. In Health Controller create action DIExplore1
+5. Implement DI in AppGoodFriendsWebApi, Explore with different lifespan
+
+6. In Health Controller create action DIExplore2 that results a list of 10 Pets
+7. Modify DIExplore2 to use csFriendsServiceOther1 and csFriendsServiceOther2 by 
+   implementing DIExploration () using with different seed sources
+8. Modify DIExploration () in csFriendsServiceOther1 and csFriendsServiceOther2 so 
+   the random list are generated in the constructor.
+   See the difference of Scoped and Singleton Service
+

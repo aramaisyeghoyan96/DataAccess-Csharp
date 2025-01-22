@@ -1,0 +1,43 @@
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/bin/Debug/net8.0/DbContext.deps.json
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/bin/Debug/net8.0/DbContext.runtimeconfig.json
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/bin/Debug/net8.0/DbContext.dll
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/bin/Debug/net8.0/DbContext.pdb
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/bin/Debug/net8.0/Configuration.dll
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/bin/Debug/net8.0/DbModels.dll
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/bin/Debug/net8.0/Models.dll
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/bin/Debug/net8.0/Configuration.pdb
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/bin/Debug/net8.0/DbModels.pdb
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/bin/Debug/net8.0/Models.pdb
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.csproj.AssemblyReference.cache
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.AssemblyInfoInputs.cache
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.AssemblyInfo.cs
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.csproj.CoreCompileInputs.cache
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.csproj.Up2Date
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.dll
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/refint/DbContext.dll
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.pdb
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.genruntimeconfig.cache
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/ref/DbContext.dll
+C:/Users/henri/Documents/Programmering/Studier/8. Dataåtkomster i .NET/myRepos/Assignment/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.sourcelink.json
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/bin/Debug/net8.0/DbContext.deps.json
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/bin/Debug/net8.0/DbContext.runtimeconfig.json
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/bin/Debug/net8.0/DbContext.dll
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/bin/Debug/net8.0/DbContext.pdb
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/bin/Debug/net8.0/Configuration.dll
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/bin/Debug/net8.0/DbModels.dll
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/bin/Debug/net8.0/Models.dll
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/bin/Debug/net8.0/Configuration.pdb
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/bin/Debug/net8.0/DbModels.pdb
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/bin/Debug/net8.0/Models.pdb
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.csproj.AssemblyReference.cache
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.AssemblyInfoInputs.cache
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.AssemblyInfo.cs
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.csproj.CoreCompileInputs.cache
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.csproj.CopyComplete
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.dll
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/refint/DbContext.dll
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.pdb
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/DbContext.genruntimeconfig.cache
+/Users/aramaisyeghoyan/Developments/DataAccess/AttractionApplication/DbContext/obj/Debug/net8.0/ref/DbContext.dll

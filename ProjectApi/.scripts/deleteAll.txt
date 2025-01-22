@@ -1,0 +1,17 @@
+Use wapistart;
+
+delete from Comments;
+delete from Attractions;
+delete from Users;
+delete from Locations;
+
+
+
+{
+      "jsonCountry": "Armenia",
+      "jsonStreets": "Arshakuniats Avenue, Davit Anhagt Street, Mazmanyan Street, Madoyan Street, Lalayan Street, Hanrapetutyan Street, Charents Street ",
+      "jsonCities": "Yerevan, Gyumri, Hrazdan, Ararat, Ejmiatsin"
+    }
+
+
+    ./database-rebuild-all.sh

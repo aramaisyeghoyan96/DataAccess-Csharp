@@ -1,0 +1,15 @@
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/bin/Debug/net8.0/Models.deps.json
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/bin/Debug/net8.0/Models.dll
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/bin/Debug/net8.0/Models.pdb
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/bin/Debug/net8.0/Configuration.dll
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/bin/Debug/net8.0/Configuration.pdb
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/obj/Debug/net8.0/Models.csproj.AssemblyReference.cache
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/obj/Debug/net8.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/obj/Debug/net8.0/Models.AssemblyInfoInputs.cache
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/obj/Debug/net8.0/Models.AssemblyInfo.cs
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/obj/Debug/net8.0/Models.csproj.CoreCompileInputs.cache
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/obj/Debug/net8.0/Models.csproj.CopyComplete
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/obj/Debug/net8.0/Models.dll
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/obj/Debug/net8.0/refint/Models.dll
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/obj/Debug/net8.0/Models.pdb
+/Users/aramaisyeghoyan/Developments/DataAccess/AccessAPI/Models/obj/Debug/net8.0/ref/Models.dll
